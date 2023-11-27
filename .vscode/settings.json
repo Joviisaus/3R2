@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "core": "cpp",
+        "__node_handle": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "complex": "cpp"
+    }
+}
